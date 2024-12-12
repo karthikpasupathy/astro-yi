@@ -1,6 +1,6 @@
 ---
 date: 2024-03-24
-title: New features
+title: Karthik Pasupathy
 description: More new features specific to this theme.
 mermaid: true
 mathjax: true
